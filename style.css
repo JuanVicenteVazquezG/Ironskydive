@@ -234,7 +234,7 @@ address {
   padding: 3px;
   width: 100%;
 }
-.slot-form-container input[type="submit"]{
+.slot-form-container button[type="submit"]{
   border:1px solid black;
   color:black;
   background:white;
